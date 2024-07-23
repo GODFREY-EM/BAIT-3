@@ -1,3 +1,3 @@
-# RESOURCES (BAIT-III)
+# BAIT-3 LEARNING RESOURCES 
 
-All notes for all modules (including tutorial questions and assignments)  just for BAIT student (3rd  year)
+All notes for all modules (including tutorial questions and assignments)
