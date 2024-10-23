@@ -23,6 +23,6 @@ Welcome to the BAIT-3 Learning Resources repository! This space contains notes, 
  7. Develop Diverse Skills
    Don’t limit yourself to one area of knowledge. Explore different skills and areas of interest—technology, management, communication, creativity. The more you learn, the more opportunities you will unlock.
 
-NOTE: tO Keep the Repository Updated
+NOTE: To Keep the Repository Updated
 
 I’ve decided to give you the responsibility of managing this repository, so it can remain up-to-date with the latest notes, tutorials, and assignments. Treat it as a shared resource—stay engaged and contribute to ensure everyone benefits. Let’s work together to keep this a vibrant and evolving learning platform!
